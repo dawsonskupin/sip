@@ -5,6 +5,6 @@ account: dawson-skupin
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 16811400
-bundleId: 11659348
+bundleId: 11697294
 url: https://dawson-skupin.shinyapps.io/sip-dashboard/
 version: 1
